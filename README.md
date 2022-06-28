@@ -9,10 +9,10 @@ To load the packages.
 Builds the project. 
 
 ### `npm run start`
-Executes the application.\
+Executes the application.
 
 ### `npm run dev`
-Executes the application in development mode.\
+Executes the application in development mode.
 
 ### `npm run heroku-postbuild`
-Equal to `npm run build` but for Heroku-Service\
+Equal to `npm run build` but for Heroku-Service.
